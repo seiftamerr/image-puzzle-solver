@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-16T21:24:31.591534",
+  "total_puzzles": 110,
+  "solved": 110,
+  "failed": 0,
+  "accuracy_stats": {
+    "avg_piece_accuracy": 7.5,
+    "avg_mse": 1769.1331416444423,
+    "avg_psnr": 28.250661611879337,
+    "avg_ssim": 0.7294291063429804,
+    "perfect_solves": 0
+  },
+  "results": [
+    {
+      "input": "0.jpg",
+      "output": "solved_0.jpg",
+      "metadata": {
+        "score": -39.93510558246968,
+        "arrangement": [
+          9,
+          14,
+          13,
+          12,
+          7,
+          1,
+          2,
+          0,
+          15,
+          3,
+          6,
+          5,
+          4,
+          11,
+          8,
+          10
+        ],
+        "piece_mapping": {
+          "0": 
